@@ -1,0 +1,30 @@
+body{
+text-align: center;
+}
+h1{
+font-size: 40px;
+font-weight: 300;
+}
+#slide{
+    font-family: 'Press Start 2P', cursive;
+    background: linear-gradient(red, blue);
+padding: 50px;
+color:white ;
+
+}
+#slide p{margin-top:20px}
+#slide img{height: 300px;
+margin-top: 35px;}
+
+
+
+#chat_bot{
+    font-family: 'Notable', sans-serif;
+    background: linear-gradient(rgb(255, 140, 0), rgb(233, 221, 6));
+    padding: 50px;
+}
+#apps{
+    font-family: 'Ma Shan Zheng', cursive;
+    background: linear-gradient(#509cff, rgb(136, 0, 255));
+    padding: 50px;
+}
